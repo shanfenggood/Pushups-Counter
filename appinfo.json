@@ -1,0 +1,40 @@
+{
+  "uuid": "fa1e78da-93dd-4d75-9992-66ec85c5b120",
+  "shortName": "PushupsC",
+  "longName": "Pushups-Counter",
+  "companyName": "xieshanfeng",
+  "versionCode": 1,
+  "versionLabel": "1.0.1",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+       {
+        "type": "png",
+        "name": "MENU_ICON",
+        "file": "pushupslogo_28.png",
+	"menuIcon":true
+      },
+     {
+        "type": "png",
+        "name": "IMAGE_PUSHUPS_READY",
+        "file": "girlpush_.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_PUSHUPS_ING",
+        "file": "pushups_.png"
+      },
+     {
+        "type": "png",
+        "name": "IMAGE_PUSHUPS_DONE",
+        "file": "goaldone_.png"
+      }
+
+	]
+  }
+}
